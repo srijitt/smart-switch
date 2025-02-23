@@ -53,7 +53,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/srijitt/smart-switch.git
-   cd smart-switch-app
+   cd smart-switch
    ```
 
 2. **Navigate to the Frontend Directory**
