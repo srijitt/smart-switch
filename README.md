@@ -21,7 +21,7 @@ Smart Switch is a cross-platform mobile application designed to revolutionize ho
 
 ## Snapshots
 
-<img src="homescreen.png" alt="Home Screen" width="300"/> &nbsp;&nbsp; <img src="dashboard.png" alt="Dashboard" width="300"/> &nbsp;&nbsp; <img src="control.png" alt="Control" width="300"/>
+<img src="homescreen.png" alt="Home Screen" width="300"/> &nbsp;&nbsp; <img src="dashboard.png" alt="Dashboard" width="300"/> &nbsp;&nbsp; <img src="control.jpg" alt="Control" width="300"/>
 
 ---
 
