@@ -1,7 +1,7 @@
 # Smart Switch Hardware Simulation
 
 📂 `hardware-simulation-script/`  
-**Template for ESP8266/ESP32 Based IoT Smart Switches**
+**This contains the script to be fed into the hardware component (ESP32-based iot devices). Each switch has a common sim script with unique topic ID. Here, we have provided 2 such example scripts.**
 
 ---
 
@@ -30,10 +30,7 @@ This directory contains the **reference implementation** for smart switch firmwa
    - AP mode (Access Point)
    - STA mode (Station)
 
----
-
-## 🛠 Customization Guide
-This contains the script to be fed into the hardware component (ESP32-based iot devices). Each switch has a common sim script with unique topic ID. Here, we have provided 2 such example scripts. 
+--- 
 
 ## 🚀 Quick Start
 1. **Install Dependencies**
