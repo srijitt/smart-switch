@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.2.1:",
-  "description": "backend service for the smart socket application",
+  "description": "updated backend service for the smart socket application",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",

@@ -3,6 +3,7 @@ import React, { createContext, useContext, useEffect, useReducer } from 'react';
 const TimerContext = createContext();
 
 const timerReducer = (state, action) => {
+  // diversion spree
   switch (action.type) {
     case 'ADD_TIMER':
       return {
